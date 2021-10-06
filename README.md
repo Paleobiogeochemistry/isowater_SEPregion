@@ -10,11 +10,17 @@ This repository aim to storage the python scripts and data set used for the pape
 This study aim to hydrologically characterized the water masses of the Southeast Pacific (SEP), going from surface (Subtropical Water, STW and Subantarctic Water, SAAW), to subsurface (Equatorial Subsurface Water, ESSW), intermediate (Antarctic Intermediate Water, AAIW) and finally deep waters (Pacific Deep Water, PDW).
 To achieve this we use seawater oxygen, deuterium, dissolved inorganic carbon isotopes in combination with temperature, salinity, oxygen and nutrient concentrations along a coastal (71-78 °W) and an oceanic (82-98 °W) transect in the Eastern South Pacific. 
 The data set integrate published and new measurements collected between 1992 and 2018. We hope that the data base, the scripts and the manuscript can promote the idea of use oceanographic data near to the sediment core sites for have accurate modern-analogs to impruve the interpretation of past changes in water mass chemistry and geometry in the Eastern South Pacific. This is relevat specially in coastal zones where continental and oceanographic processes merge in a unique dinamic which is passing to the fossil record. 
+
 As a group we are continue sampling sea water in the region for stable isotopes analysis with the goals i) impruve the cover of data ii) understand temporal variation of the stable isotope signatures of water masses iii) integrate oceanographic data to understand changes of the tracers in long-term scales. 
+
+
+## Products running the isowater_SEPregion python code
+
+- 
 
 ## Target group for apply python code 
 
-The python code that is storage in this project is specific and only work for users that want to compare oceanographic parameters between coastal (71-78 °W) and an oceanic sections (82-98 °W) in the Eastern South Pacific. With minor modifications of the code can be applicable for any oceanographic zone of the Earth in any data cloud. 
+The python code that is storage in this project was specifically develop to be used in the creation of Reyes-Macaya et al., (submitted). With the content of this project is possible to obtein any of the plots and stadistical analysis showed in the main text and suplementary information of the paper. With minor modifications the code can be applicable for any oceanographic zone of the Earth with any data cloud. 
 
 ## Prerequisites
 
