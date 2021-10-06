@@ -14,13 +14,18 @@ The data set integrate published and new measurements collected between 1992 and
 As a group we are continue sampling sea water in the region for stable isotopes analysis with the goals i) impruve the cover of data ii) understand temporal variation of the stable isotope signatures of water masses iii) integrate oceanographic data to understand changes of the tracers in long-term scales. 
 
 
-## Products running the isowater_SEPregion python code
-
-- 
-
 ## Target group for apply python code 
 
 The python code that is storage in this project was specifically develop to be used in the creation of Reyes-Macaya et al., (submitted). With the content of this project is possible to obtein any of the plots and stadistical analysis showed in the main text and suplementary information of the paper. With minor modifications the code can be applicable for any oceanographic zone of the Earth with any data cloud. 
+
+
+## Products running the isowater_SEPregion python code
+
+When this code is execute in the terminal, it will ask to the user if want manually select what to do. Otherwise it will use the code preconfiguration and do everything. 
+
+Example: 
+
+
 
 ## Prerequisites
 
