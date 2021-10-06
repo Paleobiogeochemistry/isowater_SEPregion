@@ -1,8 +1,13 @@
 # isowater_SEPregion
+
 This repository aim to storage the python scripts and data set used for the paper titled Isotopic characterization of water masses in the Eastern South Pacific Ocean: Paleoceanography implications 
+
+The paper is available in (xxWebpageofthejournalxx) 
+The data set is available in (xxpangaeaxx)
+
 # (Under Construction)
 
-# BOT (Bottom water computation)
+# Creation of the Data Frame using ODV software 
 
 To determine the theoretical bottom water characteristics on top of the sediment cores sites, we propose a simple finder script. From an hydrological data base organized in ODV software is possible to estimate it.
 
@@ -59,24 +64,23 @@ iii) python script. Remember that the name of the files needs to be simple and w
 
 
 
-## Authors
+## Data managment and script developers 
 
-* **Dharma Reyes** - *MARUM Research, University of Bremen, Germany* 
+* **Francisco Manuel Garcia Araya** - [garcicia@gmail.com] Earth System Science Data Developer
+* 
+* **Dharma Andrea Reyes Macaya** - [dharmareyes@gmail.com] Marine Biogeochemist 
 
-* **Pablo Santamarina** - [*Innovex Tecnologías (Ltd.)*](www.innovex.cl)*, Chile*
+## Authors  
 
-* **Rodrigo Troncoso** - *Arturo Prat University, Iquique, Chile*
+Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Llanillo, Mahyar Mohtadi, Patricia Grasse, Alan Mix, Melanie J Leng, Ulrich Struck, Daniel C. McCorkle, Macarena Troncoso, Eugenia M Gayo, Laura Farias, Carina B. Lange, Wilson Carhuapoma, Michelle Graco, Marcela Cornejo﹣D’Ottone, Ricardo De Pol Holz, Camila Fernandez, Diego Narvaez, Cristian A. Vargas, Francisco M. Garcia-Araya, Dierk Hebbeln. 
 
+## Projects and Funding iniciatives 
 
-
-### Collaborators
-
-> **Dharma Reyes** - *MARUM Institute, University of Bremen, Germany* - [dreyesmacaya@marum.de]
-
-> **Pablo Santamarina** - *Innovex (Ltd.), Chile*
-
-> **Rodrigo Troncoso** - *Arturo Prat University, Iquique, Chile*
-
-
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* - [*MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen*](https://www.marum.de/en/about-us/Marine-Sedimentology/Team-3.html)*, Germany*
+* - [*FARGO- FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
+* - [*Nucleo Milenio UPWELL -  Millennium Science Initiative Program*](http://www.upwell.cl/eng/humboldt-biogeochemistry/)*, Chile*
+* - [*Sonderforschungsbereich 754 - Climate – Biogeochemistry Interactions in the Tropical Ocean*](http://www.sfb754.de)*, Germany*
+* - [*COPAS Sur-Austral, Research Line 5*] (http://www.sur-austral.cl/)*, Chile
+* - [*Deparment of Oceanography, Universidad de Concepción*] (http://oceanografia.udec.cl/)*, Chile
+* - [*Instituto Milenio de Oceanografía - Millennium Science Initiative Program*] (https://en.imo-chile.cl/)*, Chile
+* - [*Centro IDEAL - Centro de Investigación de Dinámica en Ecosistemas Marinos en Altas Latitudes*] (https://www.centroideal.cl/)*, Chile
