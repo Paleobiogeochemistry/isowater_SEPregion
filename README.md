@@ -66,8 +66,7 @@ iii) python script. Remember that the name of the files needs to be simple and w
 
 ## Data managment and script developers 
 
-* **Francisco Manuel Garcia Araya** - [garcicia@gmail.com] Earth System Science Data Developer
-* 
+* **Francisco Manuel Garcia Araya** - [garcicia@gmail.com] Earth Scientist and Big Data managment  
 * **Dharma Andrea Reyes Macaya** - [dharmareyes@gmail.com] Marine Biogeochemist 
 
 ## Authors  
@@ -80,7 +79,7 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 * - [*FARGO- FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
 * - [*Nucleo Milenio UPWELL -  Millennium Science Initiative Program*](http://www.upwell.cl/eng/humboldt-biogeochemistry/)*, Chile*
 * - [*Sonderforschungsbereich 754 - Climate – Biogeochemistry Interactions in the Tropical Ocean*](http://www.sfb754.de)*, Germany*
-* - [*COPAS Sur-Austral, Research Line 5*] (http://www.sur-austral.cl/)*, Chile
-* - [*Deparment of Oceanography, Universidad de Concepción*] (http://oceanografia.udec.cl/)*, Chile
-* - [*Instituto Milenio de Oceanografía - Millennium Science Initiative Program*] (https://en.imo-chile.cl/)*, Chile
-* - [*Centro IDEAL - Centro de Investigación de Dinámica en Ecosistemas Marinos en Altas Latitudes*] (https://www.centroideal.cl/)*, Chile
+* - [*COPAS Sur-Austral, Research Line 5*](http://www.sur-austral.cl/)*, Chile
+* - [*Deparment of Oceanography, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile
+* - [*Instituto Milenio de Oceanografía - Millennium Science Initiative Program*](https://en.imo-chile.cl/)*, Chile
+* - [*Centro IDEAL - Centro de Investigación de Dinámica en Ecosistemas Marinos en Altas Latitudes*](https://www.centroideal.cl/)*, Chile
