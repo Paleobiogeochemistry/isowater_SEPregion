@@ -25,7 +25,14 @@ When this code is execute in the terminal, it will ask to the user if want manua
 
 Example: 
 
-
+positive answers are  s S y Y O o 1
+Do you want to manually select what to do? y/n  s
+Do you want to make the chemical histograms?  y/n  s
+Do you want to make the isotopic histograms?  y/n  y
+Do you want to make the Mann Whitney analysis?  y/n  o
+Do you want to calculate sea water corrected values for 13C?1
+Do you want to make the linear regression of istopic vs salinity in the offshore? y/n  S
+Do you want to make the linear regression of istopic vs salinity in the coas? y/n  S
 
 ## Prerequisites
 
