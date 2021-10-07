@@ -18,21 +18,32 @@ As a group we are continue sampling sea water in the region for stable isotopes 
 
 The python code that is storage in this project was specifically develop to be used in the creation of Reyes-Macaya et al., (submitted). With the content of this project is possible to obtein any of the plots and stadistical analysis showed in the main text and suplementary information of the paper. With minor modifications the code can be applicable for any oceanographic zone of the Earth with any data cloud. 
 
+## Main products that the code offer 
 
-## Products running the isowater_SEPregion python code
+The code provide the execution of several stadistical analysis and representation of data in plots from the coastal and oceanic section by water masses organized by their porcentage of contribution in the water mixture. A detail list of the analysis is listed here: 
+
+- Histograms for hidrological parameters: temperature, salinity, oxygen, nutrients. 
+- Histograms for stable isotope parameters: oxygen, deuterium, carbon isotopes with carbon isotope sea-air exchange 
+- Mann Whitney test by water comparing isotopic signatures (oxygen, deuterium, carbon) 
+- Computation of carbon isotope sea-air exchange effect corrected by phosphate (Broecker and Maier-Reimer, 1992) or apparent oxygen utilization (Keir et al., 1998). 
+- Linear regresion between isotopic signatures (oxygen, deuterium, carbon) versus salinity in the oceanic section
+- Linear regresion between isotopic signatures (oxygen, deuterium, carbon) versus salinity in the coastal section
+
+## Execute isowater_SEPregion python code
 
 When this code is execute in the terminal, it will ask to the user if want manually select what to do. Otherwise it will use the code preconfiguration and do everything. 
 
 Example: 
 
-positive answers are  s S y Y O o 1
 Do you want to manually select what to do? y/n  s
+
 Do you want to make the chemical histograms?  y/n  s
+
 Do you want to make the isotopic histograms?  y/n  y
+
 Do you want to make the Mann Whitney analysis?  y/n  o
-Do you want to calculate sea water corrected values for 13C?1
-Do you want to make the linear regression of istopic vs salinity in the offshore? y/n  S
-Do you want to make the linear regression of istopic vs salinity in the coas? y/n  S
+
+
 
 ## Prerequisites
 
