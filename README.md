@@ -60,8 +60,9 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 ## Projects and Funding iniciatives 
 
 * - [*MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen*](https://www.marum.de/en/about-us/Marine-Sedimentology/Team-3.html)*, Germany*
-* - [*FARGO- FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
+* - [*FARGO - FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
 * - [*Nucleo Milenio UPWELL -  Millennium Science Initiative Program*](http://www.upwell.cl/eng/humboldt-biogeochemistry/)*, Chile*
+* - [*IMARPE - Instituto del Mar del Perú*](https://www.gob.pe/imarpe)*, Perú*
 * - [*Sonderforschungsbereich 754 - Climate – Biogeochemistry Interactions in the Tropical Ocean*](http://www.sfb754.de)*, Germany*
 * - [*COPAS Sur-Austral, Research Line 5*](http://www.sur-austral.cl/)*, Chile
 * - [*Deparment of Oceanography, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile
