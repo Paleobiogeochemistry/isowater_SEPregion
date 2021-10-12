@@ -62,11 +62,14 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 * - [*IMARPE - Instituto del Mar del Perú*](https://www.gob.pe/imarpe)*, Perú*
 * - [*Nucleo Milenio UPWELL -  Millennium Science Initiative Program*](http://www.upwell.cl/eng/humboldt-biogeochemistry/)*, Chile*
 * - [*COPAS Sur-Austral, Research Line 5*](http://www.sur-austral.cl/)*, Chile*
-* - [*Deparment of Oceanography, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile*
 * - [*Instituto Milenio de Oceanografía - Millennium Science Initiative Program*](https://en.imo-chile.cl/)*, Chile*
 * - [*Centro IDEAL - Centro de Investigación de Dinámica en Ecosistemas Marinos en Altas Latitudes*](https://www.centroideal.cl/)*, Chile*
+* - [*Centro de Investigación GAIA-Antártica (CIGA)*](http://www.umag.cl/gaiaantartica/?lang=en)*, Chile
 * - [*Centro de Ciencia del Clima y Resiliencia*](https://www.cr2.cl/)*, Chile*
-* - [*scuela de Ciencias del Mar, Pontificia Universidad Católica de Valparaíso]
+* - [*Instituto Milenio en Socio-Ecología Costera (SECOS) - Millennium Science Initiative Program*](https://socioecologiacostera.cl/en/), Chile*
+* - [*Departamento de Oceanografia, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile*
+* - [*Departamento de Sistemas Acuáticos, Universidad de Concepción*](http://www.eula.cl/investigacion/unidad-de-sistemas-acuaticos/)*, Chile*
+* - [*Escuela de Ciencias del Mar, Pontificia Universidad Católica de Valparaíso](http://www.cienciasdelmar.pucv.cl/)*, Chile*
 * - [*MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen*](https://www.marum.de/en/about-us/Marine-Sedimentology/Team-3.html)*, Germany*
 * - [*AWI﹣Alfred Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung*](https://www.awi.de/en/)*, Germany*
 * - [*German Centre for Integrative Biodiversity Research (iDiv), Halle﹣Jena﹣Leipzig*](https://www.idiv.de/en/index.html)*, Germany*
@@ -74,9 +77,6 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 * - [*Sonderforschungsbereich 754 - Climate – Biogeochemistry Interactions in the Tropical Ocean*](http://www.sfb754.de)*, Germany*
 * - [*Museum für Naturkunde, Leibniz Institute for Evolution and Biodiversity Science*](https://www.leibniz-gemeinschaft.de/en/institutes/leibniz-institutes-all-lists/museum-fuer-naturkunde-leibniz-institute-for-evolution-and-biodiversity-science)*, Germany*
 * - [*Department of Earth Sciences, Freie Universität Berlin*](https://www.geo.fu-berlin.de/en/index.html)*, Germany*
-
-
-
 * - [*Lyell Centre, Heriot-Watt Univeristy*](http://www.lyellcentre.ac.uk/)*, UK*
 * - [*FARGO - FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
 * - [*National Environmental Isotope Facility, British Geological Survey*](http://www.isotopesuk.org/)*, UK*
@@ -84,5 +84,6 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 * - [*COAS﹣College of Earth, Ocean, and Atmospheric Sciences, Oregon State University*](https://ceoas.oregonstate.edu/)*, USA*
 * - [*Woods Hole Oceanographic Institution*](https://www.whoi.edu/)*, USA*
 * - [*Scripps Institution of Oceanography*](https://scripps.ucsd.edu/)*, USA*
-* - [*Stazione Zoologica Anton Dohrn*](http://www.szn.it/index.php/en/)*, Italy
+* - [*Stazione Zoologica Anton Dohrn*](http://www.szn.it/index.php/en/)*, Italy*
+* - [*Observatoire Océanologique, de Banyuls sur Mer*](https://www.obs-banyuls.fr/en/)*, France*
 * 
