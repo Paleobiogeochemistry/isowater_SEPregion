@@ -65,13 +65,21 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 * - [*Deparment of Oceanography, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile*
 * - [*Instituto Milenio de Oceanografía - Millennium Science Initiative Program*](https://en.imo-chile.cl/)*, Chile*
 * - [*Centro IDEAL - Centro de Investigación de Dinámica en Ecosistemas Marinos en Altas Latitudes*](https://www.centroideal.cl/)*, Chile*
-* 
+* - [*Centro de Ciencia del Clima y Resiliencia*](https://www.cr2.cl/)*, Chile*
 * - [*MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen*](https://www.marum.de/en/about-us/Marine-Sedimentology/Team-3.html)*, Germany*
 * - [*AWI﹣Alfred Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung*](https://www.awi.de/en/)*, Germany*
 * - [*German Centre for Integrative Biodiversity Research (iDiv), Halle﹣Jena﹣Leipzig*](https://www.idiv.de/en/index.html)*, Germany*
 * - [*GEOMAR﹣Helmholtz Centre for Ocean Research Kiel*](https://www.geomar.de/en/news/article/ocean-circulation-and-climate-dynamics)*, Germany*
 * - [*Sonderforschungsbereich 754 - Climate – Biogeochemistry Interactions in the Tropical Ocean*](http://www.sfb754.de)*, Germany*
+* - [*Museum für Naturkunde, Leibniz Institute for Evolution and Biodiversity Science*](https://www.leibniz-gemeinschaft.de/en/institutes/leibniz-institutes-all-lists/museum-fuer-naturkunde-leibniz-institute-for-evolution-and-biodiversity-science)*, Germany*
+* - [*Department of Earth Sciences, Freie Universität Berlin*](https://www.geo.fu-berlin.de/en/index.html)*, Germany*
+
+
+
 * - [*Lyell Centre, Heriot-Watt Univeristy*](http://www.lyellcentre.ac.uk/)*, UK*
 * - [*FARGO - FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
-* -[*National Environmental Isotope Facility, British Geological Survey*](http://www.isotopesuk.org/)*, UK*
-* -[*COAS﹣College of Earth, Ocean, and Atmospheric Sciences, Oregon State University*](https://ceoas.oregonstate.edu/)*, USA*
+* - [*National Environmental Isotope Facility, British Geological Survey*](http://www.isotopesuk.org/)*, UK*
+* - [*School of Biosciences, University of Nottingham*](https://www.nottingham.ac.uk/biosciences/)*, UK*
+* - [*COAS﹣College of Earth, Ocean, and Atmospheric Sciences, Oregon State University*](https://ceoas.oregonstate.edu/)*, USA*
+* - [*Woods Hole Oceanographic Institution*](https://www.whoi.edu/)*, USA*
+* 
