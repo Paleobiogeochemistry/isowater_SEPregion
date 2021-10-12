@@ -11,7 +11,11 @@ This study aim to hydrologically characterized the water masses of the Southeast
 To achieve this we use seawater oxygen, deuterium, dissolved inorganic carbon isotopes in combination with temperature, salinity, oxygen and nutrient concentrations along a coastal (71-78 °W) and an oceanic (82-98 °W) transect in the Eastern South Pacific. 
 The data set integrate published and new measurements collected between 1992 and 2018. We hope that the data base, the scripts and the manuscript can promote the idea of use oceanographic data near to the sediment core sites for have accurate modern-analogs to impruve the interpretation of past changes in water mass chemistry and geometry in the Eastern South Pacific. This is relevat specially in coastal zones where continental and oceanographic processes merge in a unique dinamic which is passing to the fossil record. 
 
-As a group we are continue sampling sea water in the region for stable isotopes analysis with the goals i) impruve the cover of data ii) understand temporal variation of the stable isotope signatures of water masses iii) integrate oceanographic data to understand changes of the tracers in long-term scales. 
+As a group we are continue sampling sea water in the SEP for stable isotopes analysis to help: 
+
+i) impruve the cover of data by water masses 
+ii) understand temporal variation of the stable isotope signatures of water masses
+iii) integrate oceanographic data to understand changes of the tracers in long-term scales 
 
 ## Consideration using isowater_SEPregion python code 
 
@@ -42,11 +46,7 @@ Do you want to make the chemical histograms?  y/n  s
 
 - Instal python 3 
 - Instal python libraries (downloand the following archive to check if you have all the necesary libraries that will be necesary for run the code in your PC)
-- Hydrological data set organize with the following format 
-
-## Getting started
-
-## Example ...
+- Hydrological data set organize with the following format  
 
 ## Data managment and script developers 
 
@@ -57,14 +57,21 @@ Do you want to make the chemical histograms?  y/n  s
 
 Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Llanillo, Mahyar Mohtadi, Patricia Grasse, Alan Mix, Melanie J Leng, Ulrich Struck, Daniel C. McCorkle, Macarena Troncoso, Eugenia M Gayo, Laura Farias, Carina B. Lange, Wilson Carhuapoma, Michelle Graco, Marcela Cornejo﹣D’Ottone, Ricardo De Pol Holz, Camila Fernandez, Diego Narvaez, Cristian A. Vargas, Francisco M. García - Araya, Dierk Hebbeln. 
 
-## Projects and Funding iniciatives 
+## Research Institutions and Funding Projects 
 
-* - [*MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen*](https://www.marum.de/en/about-us/Marine-Sedimentology/Team-3.html)*, Germany*
-* - [*FARGO - FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
-* - [*Nucleo Milenio UPWELL -  Millennium Science Initiative Program*](http://www.upwell.cl/eng/humboldt-biogeochemistry/)*, Chile*
 * - [*IMARPE - Instituto del Mar del Perú*](https://www.gob.pe/imarpe)*, Perú*
+* - [*Nucleo Milenio UPWELL -  Millennium Science Initiative Program*](http://www.upwell.cl/eng/humboldt-biogeochemistry/)*, Chile*
+* - [*COPAS Sur-Austral, Research Line 5*](http://www.sur-austral.cl/)*, Chile*
+* - [*Deparment of Oceanography, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile*
+* - [*Instituto Milenio de Oceanografía - Millennium Science Initiative Program*](https://en.imo-chile.cl/)*, Chile*
+* - [*Centro IDEAL - Centro de Investigación de Dinámica en Ecosistemas Marinos en Altas Latitudes*](https://www.centroideal.cl/)*, Chile*
+* 
+* - [*MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen*](https://www.marum.de/en/about-us/Marine-Sedimentology/Team-3.html)*, Germany*
+* - [*AWI﹣Alfred Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung*](https://www.awi.de/en/)*, Germany*
+* - [*German Centre for Integrative Biodiversity Research (iDiv), Halle﹣Jena﹣Leipzig*](https://www.idiv.de/en/index.html)*, Germany*
+* - [*GEOMAR﹣Helmholtz Centre for Ocean Research Kiel*](https://www.geomar.de/en/news/article/ocean-circulation-and-climate-dynamics)*, Germany*
 * - [*Sonderforschungsbereich 754 - Climate – Biogeochemistry Interactions in the Tropical Ocean*](http://www.sfb754.de)*, Germany*
-* - [*COPAS Sur-Austral, Research Line 5*](http://www.sur-austral.cl/)*, Chile
-* - [*Deparment of Oceanography, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile
-* - [*Instituto Milenio de Oceanografía - Millennium Science Initiative Program*](https://en.imo-chile.cl/)*, Chile
-* - [*Centro IDEAL - Centro de Investigación de Dinámica en Ecosistemas Marinos en Altas Latitudes*](https://www.centroideal.cl/)*, Chile
+* - [*Lyell Centre, Heriot-Watt Univeristy*](http://www.lyellcentre.ac.uk/)*, UK*
+* - [*FARGO - FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
+* -[*National Environmental Isotope Facility, British Geological Survey*](http://www.isotopesuk.org/)*, UK*
+* -[*COAS﹣College of Earth, Ocean, and Atmospheric Sciences, Oregon State University*](https://ceoas.oregonstate.edu/)*, USA*
