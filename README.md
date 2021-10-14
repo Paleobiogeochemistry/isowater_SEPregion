@@ -45,8 +45,11 @@ Do you want to make the chemical histograms?  y/n  s
 ## Prerequisites
 
 - Instal python 3 
-- Instal python libraries (downloand the following archive to check if you have all the necesary libraries that will be necesary for run the code in your PC)
-- Hydrological data set organize with the following format  
+- Instal python libraries (downloand the file called test from the isowater_SEPregion file list to check if you have all the necesary libraries for run the code in your PC)
+- Hydrological data set organize with the format (latitude or longitude, depth, hidrological variable, water mass percentage A, B, C, D, E) 
+
+Example
+Latitude	Depth	dD	ESSW	AAIW	PDW	STW	SAAW
 
 ## Data managment and script developers 
 
