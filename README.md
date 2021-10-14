@@ -1,6 +1,6 @@
-# isowater_SEPregion (Underconstruction) 
+# isowater_SEPregion (Under Construction) 
 
-This repository aim to storage the python scripts and data set used for the paper titled Isotopic characterization of water masses in the Eastern South Pacific Ocean: Paleoceanography implications 
+This repository aims to store the python script and data set used for the paper titled “Isotopic characterization of water masses in the Eastern South Pacific Ocean: Paleoceanography implications”
 
 **The paper is available in (xxWebpageofthejournalxx when will be published) 
 
@@ -8,60 +8,57 @@ This repository aim to storage the python scripts and data set used for the pape
 
 # Motivation and scientific goals 
 
-This study aim to hydrologically characterized the water masses of the Southeast Pacific (SEP), going from surface (Subtropical Water, STW and Subantarctic Water, SAAW), to subsurface (Equatorial Subsurface Water, ESSW), intermediate (Antarctic Intermediate Water, AAIW) and finally deep waters (Pacific Deep Water, PDW).
-To achieve this we use seawater oxygen, deuterium, dissolved inorganic carbon isotopes in combination with temperature, salinity, oxygen and nutrient concentrations along a coastal (71-78 °W) and an oceanic (82-98 °W) transect in the Eastern South Pacific. 
-The data set integrate published and new measurements collected between 1992 and 2018. We hope that the data base, the scripts and the manuscript can promote the idea of use oceanographic data near to the sediment core sites for have accurate modern-analogs to impruve the interpretation of past changes in water mass chemistry and geometry in the Eastern South Pacific. This is relevat specially in coastal zones where continental and oceanographic processes merge in a unique dinamic which is passing to the fossil record. 
+This study aims to hydrologically characterize the water masses of the Southeast Pacific (SEP), from surface (Subtropical Water, STW and Subantarctic Water, SAAW), subsurface (Equatorial Subsurface Water, ESSW), intermediate (Antarctic Intermediate Water, AAIW) and finally deep waters (Pacific Deep Water, PDW).
+To achieve this we use seawater oxygen, deuterium, dissolved inorganic carbon isotopes in combination with temperature, salinity, oxygen and nutrient concentrations along a coastal (71-78 °W) and an oceanic (82-98 °W) transect in the Southeast Pacific. 
+The data set integrates published and new measurements collected between 1992 and 2018. We hope that the database, the scripts and the manuscript can promote the idea of using oceanographic data near to the sediment core sites to have accurate modern-analogs to a better understanding of past changes in water mass chemistry and geometry in the Southeast Pacific. This is relevant especially in coastal zones where continental and oceanic processes merge in a unique dynamic which is passing to the sediment record. 
 
-As a group we are continue sampling sea water in the SEP for stable isotopes analysis to help: 
+As a group we are continuing sampling sea water in the SEP for stable isotope analysis to help: 
 
-i) impruve the cover of data by water masses 
+i) improve the data cover by water masses 
 ii) understand temporal variation of the stable isotope signatures of water masses
 iii) integrate oceanographic data to understand changes of the tracers in long-term scales 
 
-
-
-
-
+![picture sample sites] ()
 
 ## Consideration using isowater_SEPregion python code 
 
-The python code that is storage in this project was specifically develop to be used in the creation of Reyes-Macaya et al., (submitted). With the content of this project is possible to obtein any of the plots and stadistical analysis showed in the main text and suplementary information of the paper. With minor modifications the code can be applicable for any oceanographic zone of the Earth with any data cloud. 
+The python code that is stored in this project was specifically developed to be used in the creation of Reyes-Macaya et al., (submitted). With the content of this project it is possible to obtain any of the plots and statistical analysis shown in the main text and supplementary information of the paper. With minor modifications the code can be applicable for any oceanographic zone of the Earth with any data cloud. 
 
 ## Main products that the code offer 
 
-The code provide the execution of several stadistical analysis and representation of data in plots from the coastal and oceanic section by water masses organized by their porcentage of contribution in the water mixture. A detail list of the analysis is listed here: 
+The code provides the execution of several statistical analyses and representation of data in plots from the coastal and oceanic section by water masses organized by their percentage of contribution in the water mixture. A detailed list of the analysis is listed here: 
 
 - Histograms for chemical parameters: temperature, salinity, oxygen, nutrients. 
-- Histograms for stable isotope parameters: oxygen, deuterium, carbon isotopes of the Disolved inorganic carbon (DIC) and carbon isotope sea-air exchange signatures. 
-- Mann Whitney test by water comparing isotopic signatures: oxygen, deuterium, carbon isotopes of the Disolved inorganic carbon (DIC). 
+- Histograms for stable isotope parameters: oxygen, deuterium, carbon isotopes of the Dissolved inorganic carbon (DIC) and carbon isotope sea-air exchange signatures. 
+- Mann Whitney test by water comparing isotopic signatures: oxygen, deuterium, carbon isotopes of the Dissolved inorganic carbon (DIC). 
 - Computation of carbon isotope sea-air exchange effect corrected by phosphate (Broecker and Maier-Reimer, 1992) or apparent oxygen utilization (Keir et al., 1998). 
-- Linear regresion between isotopic signatures (oxygen, deuterium, carbon DIC) versus salinity in the oceanic section
-- Linear regresion between isotopic signatures (oxygen, deuterium, carbon DIC) versus salinity in the coastal section
+- Linear regression between isotopic signatures (oxygen, deuterium, carbon DIC) versus salinity in the oceanic section
+- Linear regression between isotopic signatures (oxygen, deuterium, carbon DIC) versus salinity in the coastal section
 
 ## Execute isowater_SEPregion python code
 
-When this code is execute in the terminal, it will ask to the user if want manually select what to do. Otherwise it will use the code preconfiguration and do everything. 
+When this code is executed in the terminal, it will ask the user if they want to manually select what to do. Otherwise it will use the code preconfiguration and do everything. 
 
 Example: 
 
-Do you want to manually select what to do? y/n  s
+Do you want to manually select what to do? y/n  y
 
-Do you want to make the chemical histograms?  y/n  s
+Do you want to make chemical histograms?  y/n  y
 
 ## Prerequisites
 
 - Instal python 3 
-- Instal python libraries (downloand the file called test from the isowater_SEPregion file list to check if you have all the necesary libraries for run the code in your PC)
-- Hydrological data set organize with the format (latitude or longitude, depth, hidrological variable, water mass percentage A, B, C, D, E) (downloand the file called dd_coastal.boat)
+- Instal python libraries (download the file called test from the isowater_SEPregion file list to check if you have all the necessary libraries for running the code in your PC)
+- Hydrological data set organized with the format (latitude or longitude, depth, hydrological variable, water mass percentage A, B, C, D, E) (download the file called dd_coastal.boat)
 
 Example
 
 Latitude	Depth	dD	ESSW	AAIW	PDW	STW	SAAW
 
-## Data managment and script developers 
+## Data management and script developers 
 
 * **Dharma Andrea Reyes Macaya** - [dharmareyes@gmail.com] Marine Biogeochemist 
-* **Francisco Manuel García Araya** - [garcicia@gmail.com] Earth Scientist and Big Data Managment  
+* **Francisco Manuel García Araya** - [garcicia@gmail.com] Earth Scientist and Big Data Management  
 
 ## Authors  
 
@@ -77,7 +74,7 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 * - [*Centro de Investigación GAIA-Antártica (CIGA)*](http://www.umag.cl/gaiaantartica/?lang=en)*, Chile
 * - [*Centro de Ciencia del Clima y Resiliencia*](https://www.cr2.cl/)*, Chile*
 * - [*Instituto Milenio en Socio-Ecología Costera (SECOS) - Millennium Science Initiative Program*](https://socioecologiacostera.cl/en/), Chile*
-* - [*Departamento de Oceanografia, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile*
+* - [*Departamento de Oceanografía, Universidad de Concepción*](http://oceanografia.udec.cl/)*, Chile*
 * - [*Departamento de Sistemas Acuáticos, Universidad de Concepción*](http://www.eula.cl/investigacion/unidad-de-sistemas-acuaticos/)*, Chile*
 * - [*Escuela de Ciencias del Mar, Pontificia Universidad Católica de Valparaíso](http://www.cienciasdelmar.pucv.cl/)*, Chile*
 * - [*MARUM - Zentrum für Marine Umweltwissenschaften der Universität Bremen*](https://www.marum.de/en/about-us/Marine-Sedimentology/Team-3.html)*, Germany*
@@ -87,7 +84,7 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 * - [*Sonderforschungsbereich 754 - Climate – Biogeochemistry Interactions in the Tropical Ocean*](http://www.sfb754.de)*, Germany*
 * - [*Museum für Naturkunde, Leibniz Institute for Evolution and Biodiversity Science*](https://www.leibniz-gemeinschaft.de/en/institutes/leibniz-institutes-all-lists/museum-fuer-naturkunde-leibniz-institute-for-evolution-and-biodiversity-science)*, Germany*
 * - [*Department of Earth Sciences, Freie Universität Berlin*](https://www.geo.fu-berlin.de/en/index.html)*, Germany*
-* - [*Lyell Centre, Heriot-Watt Univeristy*](http://www.lyellcentre.ac.uk/)*, UK*
+* - [*Lyell Centre, Heriot-Watt University*](http://www.lyellcentre.ac.uk/)*, UK*
 * - [*FARGO - FAte of ocean oxygenation in a waRminG wOrld*](http://www.lyellcentre.ac.uk/)*, UK*
 * - [*National Environmental Isotope Facility, British Geological Survey*](http://www.isotopesuk.org/)*, UK*
 * - [*School of Biosciences, University of Nottingham*](https://www.nottingham.ac.uk/biosciences/)*, UK*
