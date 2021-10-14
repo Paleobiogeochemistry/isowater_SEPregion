@@ -27,11 +27,11 @@ The python code that is storage in this project was specifically develop to be u
 The code provide the execution of several stadistical analysis and representation of data in plots from the coastal and oceanic section by water masses organized by their porcentage of contribution in the water mixture. A detail list of the analysis is listed here: 
 
 - Histograms for chemical parameters: temperature, salinity, oxygen, nutrients. 
-- Histograms for stable isotope parameters: oxygen, deuterium, carbon isotopes with carbon isotope sea-air exchange 
-- Mann Whitney test by water comparing isotopic signatures (oxygen, deuterium, carbon) 
+- Histograms for stable isotope parameters: oxygen, deuterium, carbon isotopes of the Disolved inorganic carbon (DIC) and carbon isotope sea-air exchange signatures. 
+- Mann Whitney test by water comparing isotopic signatures: oxygen, deuterium, carbon isotopes of the Disolved inorganic carbon (DIC). 
 - Computation of carbon isotope sea-air exchange effect corrected by phosphate (Broecker and Maier-Reimer, 1992) or apparent oxygen utilization (Keir et al., 1998). 
-- Linear regresion between isotopic signatures (oxygen, deuterium, carbon) versus salinity in the oceanic section
-- Linear regresion between isotopic signatures (oxygen, deuterium, carbon) versus salinity in the coastal section
+- Linear regresion between isotopic signatures (oxygen, deuterium, carbon DIC) versus salinity in the oceanic section
+- Linear regresion between isotopic signatures (oxygen, deuterium, carbon DIC) versus salinity in the coastal section
 
 ## Execute isowater_SEPregion python code
 
@@ -55,8 +55,8 @@ Latitude	Depth	dD	ESSW	AAIW	PDW	STW	SAAW
 
 ## Data managment and script developers 
 
-* **Francisco Manuel García Araya** - [garcicia@gmail.com] Earth Scientist and Big Data Managment  
 * **Dharma Andrea Reyes Macaya** - [dharmareyes@gmail.com] Marine Biogeochemist 
+* **Francisco Manuel García Araya** - [garcicia@gmail.com] Earth Scientist and Big Data Managment  
 
 ## Authors  
 
