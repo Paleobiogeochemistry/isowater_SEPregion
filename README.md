@@ -3,7 +3,8 @@
 This repository aim to storage the python scripts and data set used for the paper titled Isotopic characterization of water masses in the Eastern South Pacific Ocean: Paleoceanography implications 
 
 **The paper is available in (xxWebpageofthejournalxx when will be published) 
-**The data set is available in (xxpangaeaxx)
+
+**The data set is available in (PANGAEA link)
 
 # Motivation and scientific goals 
 
@@ -46,7 +47,7 @@ Do you want to make the chemical histograms?  y/n  s
 
 - Instal python 3 
 - Instal python libraries (downloand the file called test from the isowater_SEPregion file list to check if you have all the necesary libraries for run the code in your PC)
-- Hydrological data set organize with the format (latitude or longitude, depth, hidrological variable, water mass percentage A, B, C, D, E) 
+- Hydrological data set organize with the format (latitude or longitude, depth, hidrological variable, water mass percentage A, B, C, D, E) (downloand the file called dd_coastal.boat)
 
 Example
 
