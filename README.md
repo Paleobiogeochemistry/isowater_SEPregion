@@ -25,8 +25,8 @@ Figure: Location of hydrological sites that our team are currently working on [c
 
 ## New data set that will be uploaded in 2022-2024
 
-New seawater samples are available to be analyzed from the following locations in Chile: Mejillones, Coquimbo, Reloncavi Fjord, Chilean Patagonia. 
-As well new projects as [*CLAP*](https://futureoceanslab.org/clap/) from CEAZA and the UK-Chile project [*NERC-Disentangling the Genotype Paleoproxy Challenge in the Humboldt Current System and Beyond*] will continue to take samples in the region. 
+- New seawater samples are available to be analyzed from the following locations in Chile: Mejillones, Coquimbo, Reloncavi Fjord, Chilean Patagonia. 
+- New projects as [*CLAP*](https://futureoceanslab.org/clap/) from CEAZA and the UK-Chile project [*NERC-Disentangling the Genotype Paleoproxy Challenge in the Humboldt Current System and Beyond*] will continue sampling seawater for stable isotopes in the region. 
 
 ## Consideration using isowater_SEPregion python code 
 
