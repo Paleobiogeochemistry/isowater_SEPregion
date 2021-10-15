@@ -23,9 +23,10 @@ iv) Provide to the paleoceanography community a hydrological data set to be used
 
 Figure: Location of hydrological sites that our team are currently working on [coloured dots refer to the individual expeditions]. The code developed for this specific publication only can be runed by transects. Features indicated are main ocean currents, oceanographic fronts and the Antarctic Intermediate Water (AAIW) formation zone in the Southeast Pacific. Peru-Chile or Humboldt Current (PCC), Peru-Chile Counter Current (PCCC), Peru-Chile Undercurrent (PCUC), Equatorial Undercurrent (EUC), South Equatorial Current (SEC), Subantarctic Front (SAF) and Subtropical Front (STF). In the data collection, the stations of expeditions P19-P06, SO211 and TABASCO correspond to published data from the project *[*GLODAP v2*](https://www.glodap.info/)*, *[*Martinez-Mendez et al., 2013*](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/palo.20047?__cf_chl_jschl_tk__=pmd_qLivIu5GB8dsCMRtLVPENswsh0sAP06fW2SAWA46ayc-1634291777-0-gqNtZGzNAiWjcnBszQjR)* and [*Pakulski et al., 2007*](https://www.researchgate.net/publication/250220274_Responses_of_heterotrophic_bacteria_to_solar_irradiance_in_the_eastern_Pacific_Ocean) respectively. 
 
-## New data set that will be uploaded in 2022-2023
+## New data set that will be uploaded in 2022-2024
 
-Currently seawater samples being sampled or will be sampled in the following locations: Mejillones, Coquimbo, Reloncavi Fjord, Chilean Patagonia. 
+New seawater samples are available to be analyzed from the following locations in Chile: Mejillones, Coquimbo, Reloncavi Fjord, Chilean Patagonia. 
+As well new projects as [*CLAP*](https://futureoceanslab.org/clap/) from CEAZA and the UK-Chile project [*NERC-Disentangling the Genotype Paleoproxy Challenge in the Humboldt Current System and Beyond*] will continue to take samples in the region. 
 
 ## Consideration using isowater_SEPregion python code 
 
@@ -100,3 +101,4 @@ Dharma Reyes﹣Macaya, Babette Hoogakker, Gema Martínez﹣Méndez, Pedro J. Lla
 * - [*Scripps Institution of Oceanography*](https://scripps.ucsd.edu/)*, USA*
 * - [*Stazione Zoologica Anton Dohrn*](http://www.szn.it/index.php/en/)*, Italy*
 * - [*Observatoire Océanologique, de Banyuls sur Mer*](https://www.obs-banyuls.fr/en/)*, France*
+
