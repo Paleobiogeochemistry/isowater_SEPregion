@@ -25,7 +25,7 @@ Figure: Location of hydrological sites that our team are currently working on [c
 
 ## New data set that will be uploaded in 2022-2023
 
-The new location sites that are currently being sampled or will be  to be sampled are: Mejillones, Coquimbo, Reloncavi Fjord, Chilean Patagonia 
+Currently seawater samples being sampled or will be sampled in the following locations: Mejillones, Coquimbo, Reloncavi Fjord, Chilean Patagonia. 
 
 ## Consideration using isowater_SEPregion python code 
 
