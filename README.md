@@ -18,7 +18,9 @@ i) improve the data cover by water masses
 ii) understand temporal variation of the stable isotope signatures of water masses
 iii) integrate oceanographic data to understand changes of the tracers in long-term scales 
 
-![picture sample sites] ()
+![sampleinformation_project_10152021](https://user-images.githubusercontent.com/80867539/137465439-521b4d6f-07bf-4467-9a0c-314c1632b932.png)
+
+Figure: Location of hydrological sites that our team are currently working on [coloured dots refer to the individual expeditions]. The code developed for this specific publication only can be runed by transects. Features indicated are main ocean currents, oceanographic fronts and the Antarctic Intermediate Water (AAIW) formation zone in the Southeast Pacific. Peru-Chile or Humboldt Current (PCC), Peru-Chile Counter Current (PCCC), Peru-Chile Undercurrent (PCUC), Equatorial Undercurrent (EUC), South Equatorial Current (SEC), Subantarctic Front (SAF) and Subtropical Front (STF). In the data collection, the stations of expeditions P19-P06 and SO211 correspond to published data from the project *[*GLODAP v2*](https://www.glodap.info/)* and *[*Martinez-Mendez et al., 2013*](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/palo.20047?__cf_chl_jschl_tk__=pmd_qLivIu5GB8dsCMRtLVPENswsh0sAP06fW2SAWA46ayc-1634291777-0-gqNtZGzNAiWjcnBszQjR)*, respectively. 
 
 ## Consideration using isowater_SEPregion python code 
 
