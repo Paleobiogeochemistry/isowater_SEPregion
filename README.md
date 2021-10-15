@@ -32,7 +32,7 @@ Figure: Location of hydrological sites that our team are currently working on [c
 
 The python code that is stored in this project was specifically developed to be used in the creation of Reyes-Macaya et al., (submitted). With the content of this project it is possible to obtain any of the plots and statistical analysis shown in the main text and supplementary information of the paper. With minor modifications the code can be applicable for any oceanographic zone of the Earth with any data cloud. 
 
-## Main products that the code offer 
+## Main products that the code offers 
 
 The code provides the execution of several statistical analyses and representation of data in plots from the coastal and oceanic section by water masses organized by their percentage of contribution in the water mixture. A detailed list of the analysis is listed here: 
 
