@@ -55,8 +55,8 @@ Do you want to make chemical histograms?  y/n  y
 ## Prerequisites
 
 - Instal python 3 
-- Instal python libraries (download the file called test from the isowater_SEPregion file list to check if you have all the necessary libraries for running the code in your PC)
-- Hydrological data set organized with the format (latitude or longitude, depth, hydrological variable, water mass percentage A, B, C, D, E) (download the file called dd_coastal.boat)
+- Instal python libraries (download the file called *test* from the isowater_SEPregion file list to check if you have all the necessary libraries for running the code in your PC)
+- Hydrological data set organized with the format (latitude or longitude, depth, hydrological variable, water mass percentage A, B, C, D, E) (download the file called *dd_coastal.boat*)
 
 Example
 
