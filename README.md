@@ -14,9 +14,9 @@ The data set integrates published and new measurements collected between 1992 an
 
 As a group we are continuing sampling sea water in the SEP for stable isotope analysis with the goals of:  
 
-i) improve the data cover by water masses.
-ii) understand temporal variation of the stable isotope signatures of water masses.
-iii) integrate oceanographic data to understand changes of the tracers in long-term scales.
+i) Improve the data cover by water masses.
+ii) Understand temporal variation of the stable isotope signatures of water masses.
+iii) Integrate oceanographic data to understand changes of the tracers in long-term scales.
 iv) Provide to the paleoceanography community a hydrological data set to be used as a modern-analog that can be permanently curated. 
 
 ![sampleinformation_project_10152021](https://user-images.githubusercontent.com/80867539/137465439-521b4d6f-07bf-4467-9a0c-314c1632b932.png)
