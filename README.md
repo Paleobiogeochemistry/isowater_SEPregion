@@ -1,4 +1,4 @@
-# isowater_SEPregion (Under Construction) 
+# isowater_SEPregion 
 
 This repository aims to store the python script and data set used for the paper titled “Isotopic characterization of water masses in the Eastern South Pacific Ocean: Paleoceanography implications”
 
