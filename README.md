@@ -2,9 +2,9 @@
 
 This repository aims to store the python script and data set used for the paper titled “Isotopic characterization of water masses in the Eastern South Pacific Ocean: Paleoceanography implications”
 
-**The paper is available in (xxWebpageofthejournalxx when will be published) 
+**Paper available in (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017525) 
 
-**The data set is available in (PANGAEA link)
+**Data set available in https://doi.pangaea.de/10.1594/PANGAEA.940085  
 
 # Motivation and scientific goals 
 
