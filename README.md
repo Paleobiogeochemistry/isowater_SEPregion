@@ -2,9 +2,9 @@
 
 This repository aims to store the python script and data set used for the paper titled “Isotopic characterization of water masses in the Eastern South Pacific Ocean: Paleoceanography implications”
 
-** Paper available in (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017525) 
+Paper available in (https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017525) 
 
-** Data set available in https://doi.pangaea.de/10.1594/PANGAEA.940085  
+Data set available in https://doi.pangaea.de/10.1594/PANGAEA.940085 and https://github.com/Paleobiogeochemistry/BOT/tree/main  
 
 ## Motivation and scientific goals 
 
@@ -55,7 +55,7 @@ Do you want to make chemical histograms?  y/n  y
 
 ## Prerequisites
 
-- Instal python 3 
+- Instal python https://www.python.org/downloads/ 
 - Instal python libraries (download the file called *test* from the isowater_SEPregion file list to check if you have all the necessary libraries for running the code in your PC)
 - Hydrological data set organized with the format (latitude or longitude, depth, hydrological variable, water mass percentage A, B, C, D, E) (download the file called *dd_coastal.boat*)
 
