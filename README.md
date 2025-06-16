@@ -65,8 +65,8 @@ Latitude	Depth	dD	ESSW	AAIW	PDW	STW	SAAW
 
 ## Data management and script developers 
 
-* **Dharma Andrea Reyes Macaya** - [dharmareyes@gmail.com] Marine Biogeochemist 
-* **Francisco Manuel García Araya** - [garcicia@gmail.com] Earth Scientist and Big Data Management  
+* **Dharma Andrea Reyes Macaya** - [dharmareyes@gmail.com] Marine Biogeochemist, Paleoceanographer and Data Scientist.  
+* **Francisco Manuel García Araya** - [garcicia@gmail.com] Earth Scientist, Numerical Modeller, Python mentor.  
 
 ## Authors  
 
